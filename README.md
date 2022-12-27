@@ -1,1 +1,1 @@
-Created by following along with <a href = "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">The Net Ninja's tutorial on React + javascript</a> - but independently amended to typescript!
+Created by following along with <a href = "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d">The Net Ninja's tutorial on React + Javascript</a> - but independently amended to typescript!
